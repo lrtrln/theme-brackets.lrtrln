@@ -1,0 +1,14 @@
+{
+	"name": "theme.lrtrln",
+	"title": "Flatty darko",
+	"description": "Dark, flat, minimal theme. Meant to sit flat with the Brackets UI.",
+	"homepage": "https://github.com/lrtrln",
+	"version": "0.0.1",
+	"author": "lrtrln",
+	"license": "MIT",
+	"theme": {
+		"file": "theme.less",
+		"dark": true
+	},
+	"keywords": ["theme", "dark", "flat"]
+}
